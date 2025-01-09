@@ -1,0 +1,4 @@
+keegle 3.0
+sponglaz 3.6
+zcent 1.5
+swishduck 1.0

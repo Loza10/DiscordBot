@@ -1,0 +1,5 @@
+keegle 7.5
+sponglaz 5.111
+zcent 6.3
+swishduck 5.8
+khaber 9.0

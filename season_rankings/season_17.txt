@@ -1,0 +1,4 @@
+keegle 9.0
+sponglaz 9.5
+zcent 9.8
+swishduck 10.0

@@ -1,0 +1,4 @@
+discord
+scikit-learn
+pandas
+openai
